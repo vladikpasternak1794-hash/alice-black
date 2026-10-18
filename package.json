@@ -1,0 +1,9 @@
+{
+  "name": "alice-black-humor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sarcastic, dark-humor Russian voice assistant webhook for Yandex Alice",
+  "engines": {
+    "node": ">=20"
+  }
+}
